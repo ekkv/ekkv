@@ -1,7 +1,9 @@
-Hello
+Hello everyone,
 
-My name is Kanat Akylson
-Experienced IT professional with over 10 years of expertise in Information Technology Management and Operations. Passionate about process improvement through automation, testing, and implementation. A dedicated learner of the latest tools and methodologies committed to applying my knowledge and skills to bring value to the organization I serve.
+My name is Kate,
+I'm s data science enthusiast with a fresh perspective on complex problems. Passionate about process improvement through automation, testing, and implementation. A dedicated learner and a responsible employee.
+
+***Looking for interesting new challenges!***
 
 **TECHNICAL SKILLS:**
 -	**Programming:** Python
