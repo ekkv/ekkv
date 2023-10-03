@@ -1,7 +1,7 @@
 Hello everyone,
 
 My name is Kate,
-I'm s data science enthusiast with a fresh perspective on complex problems. Passionate about process improvement through automation, testing, and implementation. A dedicated learner and a responsible employee.
+I'm a data science enthusiast with a fresh perspective on complex problems. Passionate about process improvement through automation, testing, and implementation. A dedicated learner and a responsible employee.
 
 ***Looking for interesting new challenges!***
 
